@@ -142,11 +142,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="G:\Desktop\代码的文件夹\alogorithm\p18_work.cpp" />
-    <ClCompile Include="G:\Desktop\代码的文件夹\alogorithm\p34_work.cpp" />
+    <None Include="data.in" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="data.in" />
+    <ClCompile Include="p18_work.cpp" />
+    <ClCompile Include="p34_work.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
