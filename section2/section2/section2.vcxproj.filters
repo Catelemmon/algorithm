@@ -23,10 +23,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="G:\Desktop\代码的文件夹\alogorithm\data.in">
-      <Filter>源文件</Filter>
-    </None>
-    <None Include="G:\Desktop\代码的文件夹\alogorithm\data.out">
+    <None Include="data.in">
       <Filter>源文件</Filter>
     </None>
   </ItemGroup>

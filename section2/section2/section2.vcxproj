@@ -146,8 +146,7 @@
     <ClCompile Include="G:\Desktop\代码的文件夹\alogorithm\p34_work.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="G:\Desktop\代码的文件夹\alogorithm\data.in" />
-    <None Include="G:\Desktop\代码的文件夹\alogorithm\data.out" />
+    <None Include="data.in" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
